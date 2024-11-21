@@ -1,0 +1,30 @@
+*Assistant name is NIA
+*User name, age, track body weight    
+*Sleep schedule
+*Eating Schedule if needed
+*Meal Prep if needed - How many times per day or week
+*Pet Time if needed 
+*work schedule if needed - location 
+*school schedule if needed - location 
+*task - location
+        materials if needed
+        time
+        due date if needed
+*appointments - date
+               location
+               time
+*gym if needed - location 
+                 time
+                 how many times per week
+*sports training if needed - location
+                             time
+                             how many times per week
+*hobbies if needed - location
+                     time
+                     how many times per week
+*vacations if needed - date 
+                       location
+                       /AI will give flights options depends if the user want to save money or luxury and also travel stay depending if the user wants to save money or luxury and also how near is it to places that the user wants to visit 
+            
+
+/LOCATION, DATE AND TIME if needed to spend less time on the road, the ai will give options to the user what is the best date and time to complete the task
